@@ -1,12 +1,30 @@
 body {
     margin: 0;
-    background-color: #f1faee
+    background-color: #f1faee;
 }
 
 nav {
     background-color: #d8f3dc;
     display: flex;
+}
 
+main {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: 30px;
+}
+
+h2 {
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+p {
+    font-size: 17px;
 }
 
 a {
@@ -21,5 +39,25 @@ a:hover {
 }
 
 img {
-    width: 100px;
+    width: 150px;
+}
+
+.xiaomiPhone {
+    width: 400px;
+}
+
+.flex1 {
+    display: flex;
+    gap: 30px;
+}
+
+.flex2 {
+    flex-direction: column;
+    margin-left: 60px;
+}
+
+.bestellen {
+    background-color: #95d5b2;
+    border-radius: 5px;
+    padding: 10px 80px;
 }
