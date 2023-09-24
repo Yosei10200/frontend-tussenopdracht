@@ -133,6 +133,7 @@ img {
     margin-right: -200px;
     display: flex;
     justify-content: center;
+    padding: 80px;
 }
 
 .products {
@@ -161,12 +162,12 @@ footer {
 .footerr {
     color: black;
     text-decoration: none;
-    padding: 40px;
+    padding: 50px;
 }
 
 .footerr:hover {
     background-color: none;
     background-color: #006d77;
-    padding: 40px;
+    padding: 50px;
     text-decoration: underline;
 }
