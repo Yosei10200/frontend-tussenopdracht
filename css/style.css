@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
 body {
     margin: 0;
     background-color: #f1faee;
+    font-family: 'Muli', sans-serif;
 }
 
 nav {
@@ -19,6 +22,7 @@ main {
 h1 {
     font-size: 50px;
     margin-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h2 {
